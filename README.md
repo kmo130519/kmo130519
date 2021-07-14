@@ -10,7 +10,7 @@
 
 등을 다룰 예정입니다👋
 
-[![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/0aaa8f78f306482b8aaa7eaff3b35571)](https://www.notion.so/0aaa8f78f306482b8aaa7eaff3b35571)
+[![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/1592d6ce66634222bbc1f8efbdaad7ca)](https://www.notion.so/0aaa8f78f306482b8aaa7eaff3b35571)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsdn472@gmail.com)](mailto:alsdn472@gmail.com)
 ![R](https://img.shields.io/badge/R-white?style=flat-square&logo=R&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=#3776AB)
