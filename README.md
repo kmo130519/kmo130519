@@ -1,4 +1,4 @@
-#### 개인 Notion을 운영중입니다.  [![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/1592d6ce66634222bbc1f8efbdaad7ca)](https://www.notion.so/1592d6ce66634222bbc1f8efbdaad7ca) 클릭!
+#### 개인 Notion을 운영중입니다.  [![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/HOME-2b3b188c8ded4cf7ab125b7de870aac4)](https://www.notion.so/HOME-2b3b188c8ded4cf7ab125b7de870aac4) 클릭!
 
 * NLP
 * Deep learning
