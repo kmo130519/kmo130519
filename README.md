@@ -18,3 +18,4 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat-square&logo=TensorFlow&logoColor=#EE4C2C)
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=#4479A1)
 ![GA](https://img.shields.io/badge/Google%20Analytics-white?style=flat-square&logo=Google%20Analytics&logoColor=#E37400)
+![Scala](https://img.shields.io/badge/Scala-green?style=flat-square&logo=Scala&logoColor=#DC322F)
