@@ -1,16 +1,20 @@
-### Hi there 👋
+#### 개인 Notion을 운영중입니다.
 
-<!--
-**kmo130519/kmo130519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* NLP
+* Deep learning
+* 수리통계
+* 회귀분석
+* 통계학
+* Maching learning
+* data analytics
 
-Here are some ideas to get you started:
+등을 다룰 예정입니다👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/0aaa8f78f306482b8aaa7eaff3b35571)](https://www.notion.so/0aaa8f78f306482b8aaa7eaff3b35571)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsdn472@gmail.com)](mailto:alsdn472@gmail.com)
+![R](https://img.shields.io/badge/R-white?style=flat-square&logo=R&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=#3776AB)
+![Pytorch](https://img.shields.io/badge/Pytorch-white?style=flat-square&logo=Pytorch&logoColor=#EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat-square&logo=TensorFlow&logoColor=#EE4C2C)
+![MySQL](https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=#4479A1)
+![GA](https://img.shields.io/badge/Google%20Analytics-white?style=flat-square&logo=Google%20Analytics&logoColor=#E37400)
